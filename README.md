@@ -1,2 +1,2 @@
 # Password Manager
-A Password Manager GUI application created with Python and Tkinter
+A password manager developed using Tkinter, created during my early stages of learning Python.
